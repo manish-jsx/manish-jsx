@@ -3,6 +3,10 @@
 ## Senior Software Developer | SDK Developer | Full Stack Engineer
 
 Passionate senior software developer experienced in building robust and scalable applications. Skilled in SDK development, frameworks, Dart, Python, React, and Flask. I love tackling complex problems and delivering high-quality solutions that exceed expectations.
+🌟 I also have experience with Strapi, an open-source headless CMS and development framework, which allows me to create powerful and customizable APIs quickly and easily.
+
+🚀 With a deep appreciation for open-source software, I actively contribute to the developer community. You'll find a collection of my projects here, ranging from full-stack applications to libraries and utilities.
+
 
 ### Skills and Technologies
 
@@ -16,6 +20,8 @@ Passionate senior software developer experienced in building robust and scalable
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white)
+
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
