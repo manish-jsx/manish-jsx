@@ -3,6 +3,7 @@
 ## Senior Software Developer | SDK Developer | Full Stack Engineer
 
 Passionate senior software developer experienced in building robust and scalable applications. Skilled in SDK development, frameworks, Dart, Python, React, and Flask. I love tackling complex problems and delivering high-quality solutions that exceed expectations.
+
 🌟 I also have experience with Strapi, an open-source headless CMS and development framework, which allows me to create powerful and customizable APIs quickly and easily.
 
 🚀 With a deep appreciation for open-source software, I actively contribute to the developer community. You'll find a collection of my projects here, ranging from full-stack applications to libraries and utilities.
