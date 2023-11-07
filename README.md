@@ -16,11 +16,16 @@ Passionate senior software developer experienced in building robust and scalable
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white)
 
 
@@ -32,22 +37,49 @@ Passionate senior software developer experienced in building robust and scalable
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?logo=amazon-s3&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-EC7211?logo=amazon-ec2&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-FF7721?logo=amazon-rds&logoColor=white)
+![Amazon Lambda](https://img.shields.io/badge/-AWS%20Lambda-F3DD11?logo=aws-lambda&logoColor=black)
+![Amazon VPC](https://img.shields.io/badge/-Amazon%20VPC-4A7CFF?logo=amazon-vpc&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/-Amazon%20ECS-099CEC?logo=amazon-ecs&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/-Amazon%20SQS-FF9900?logo=amazon-sqs&logoColor=black)
+![Amazon SNS](https://img.shields.io/badge/-Amazon%20SNS-FF5733?logo=amazon-sns&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/-Amazon%20CloudFront-FF9900?logo=amazon-cloudfront&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?logo=aws-amplify&logoColor=black)
+![Amazon Cognito](https://img.shields.io/badge/-Amazon%20Cognito-FF5733?logo=amazon-cognito&logoColor=white)
+![AWS Fargate](https://img.shields.io/badge/-AWS%20Fargate-4A90E2?logo=amazon-fargate&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+
+
+
+
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+![Google Authentication](https://img.shields.io/badge/-Google%20Authentication-4285F4?logo=google&logoColor=white)
+
+
+
 
 ### Experience
 
-- **Senior Software Developer** at XYZ Company
+- **Freelance Application Developer** 
   - Developed and maintained SDKs for seamless integration with multiple platforms.
   - Collaborated with cross-functional teams to design and implement robust solutions.
   - Led the development of scalable and performant applications using Flutter and React.
 
-- **Full Stack Engineer** at ABC Corporation
+- **Software Engineer** at Fidelity International
   - Developed RESTful APIs using Flask and Django, ensuring efficient data flow and system stability.
   - Implemented modern front-end solutions with React, enhancing user experience.
   - Led code reviews and mentored junior developers, promoting best practices and team collaboration.
 
 ### Education
 
-- **Bachelor of Computer Science** from XYZ University
+- **Bachelor of Computer Science** from SOA University
 
 ### Projects
 
